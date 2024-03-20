@@ -1,15 +1,14 @@
-import type { Metadata } from "next";
 import { Header } from "@/components/Header";
-
+import { Metadata } from "next";
 import "@/styles/tailwind.css";
 
-// Here we define the metadata for the site
-// The metadata is used to define the title and description of the site
-// The metadata is used by search engines and social media platforms
 export const metadata: Metadata = {
-  title: "John Doe - Portfolio Workshop",
-  description:
-    "Explore John Doe's portfolio created during the portfolio workshop.",
+  title: "Portfolio Website - John Doe Full Stack Developer",
+  description: //20 - 25 Words
+    "Please ",
+  verification: {
+    google: 'CQJ7xAqntSoUy6r5hgg0P5qRxjL7WvFzdk6_dWXlb0o'
+  }
 };
 
 //Here is the root layout which shared across all pages

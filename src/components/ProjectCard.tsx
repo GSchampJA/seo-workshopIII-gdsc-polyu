@@ -32,9 +32,10 @@ export function ProjectCard({
         <Link
           target="_blank"
           href={href}
+
           className="flex text-zinc-600 items-center gap-1 hover:underline"
         >
-          Learn more
+          Go to {name}
           <IconArrowRight size={18} />
         </Link>
       </div>

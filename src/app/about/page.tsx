@@ -3,9 +3,9 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "About",
+  title: "",
   description:
-    "I’m John Doe, a full-stack developer and tech enthusiast based in Hong Kong.",
+    "",
 };
 
 export default function AboutPage() {

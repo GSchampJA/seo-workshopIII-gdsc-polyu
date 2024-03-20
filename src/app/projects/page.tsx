@@ -3,9 +3,9 @@ import { projects } from "@/misc/data";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Projects",
+  title: "",
   description:
-    "Explore my latest projects and contributions to the open-source community.",
+    "",
 };
 
 export default function ProjectsPage() {
