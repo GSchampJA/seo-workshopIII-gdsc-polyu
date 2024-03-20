@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: //20 - 25 Words
     "This is John Doe's Portfolio, this is the story of a full stack developer.",
   verification: {
-    google: ''
+    google: 'CQJ7xAqntSoUy6r5hgg0P5qRxjL7WvFzdk6_dWXlb0o'
   }
 };
 
