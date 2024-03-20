@@ -3,11 +3,11 @@ import { Metadata } from "next";
 import "@/styles/tailwind.css";
 
 export const metadata: Metadata = {
-  title: "Portfolio Website - John Doe Full Stack Developer",
+  title: "",
   description: //20 - 25 Words
-    "Please ",
+    "",
   verification: {
-    google: 'CQJ7xAqntSoUy6r5hgg0P5qRxjL7WvFzdk6_dWXlb0o'
+    google: ''
   }
 };
 
