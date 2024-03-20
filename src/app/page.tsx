@@ -24,7 +24,7 @@ export default function HomePage() {
             priority
           />
 
-          <a href = "https://portfolio-gdsc.netlify.app/" target = "_blank" rel = "ugc, external">Backlink to Portfolio-GDSC Website</a>
+          
 
           <h1 className="text-4xl mt-6 font-bold tracking-tight text-zinc-800 sm:text-5xl">
             Full-stack developer, tech enthusiast, and AI hobbyist.
