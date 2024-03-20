@@ -3,9 +3,9 @@ import { Metadata } from "next";
 import "@/styles/tailwind.css";
 
 export const metadata: Metadata = {
-  title: "",
+  title: "Digital Portfolio",
   description: //20 - 25 Words
-    "",
+    "This is John Doe's Portfolio, this is the story of a full stack developer.",
   verification: {
     google: ''
   }
